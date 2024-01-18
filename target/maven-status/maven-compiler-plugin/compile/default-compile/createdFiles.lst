@@ -2,3 +2,4 @@ my\project\tp\StreamingJob.class
 my\project\tp\source\FirstProjectDataSource.class
 my\project\tp\BatchJob.class
 my\project\tp\FirstProject.class
+my\project\tp\source\SensorDataSource.class
